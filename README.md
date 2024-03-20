@@ -1,6 +1,5 @@
 ### Hi! You've just arrived at my profile!
 
-[![Cleyton's GitHub stats](https://github-readme-stats.vercel.app/api?username=CleytonSM)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CleytonSM/CleytonSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
