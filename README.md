@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my GitHub profile! I'm Cleyton, a passionate backend web developer dedicated to writing clean, maintainable code and constantly expanding my knowledge in the world of computer science. 🌐
+Welcome to my GitHub profile! I'm Cleyton, a passionate backend web developer dedicated to writing clean, maintainable code and constantly expanding my knowledge in the world of computer science 🌐.
 
 Here are some of the technologies I frequently work with:
 
