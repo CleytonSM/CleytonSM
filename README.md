@@ -33,4 +33,4 @@ Here are some of the technologies I frequently work with:
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect:
 
-- **LinkedIn:** https://www.linkedin.com/in/cleyton-souza-martins-b510b5263/ 🔗
+- **LinkedIn:** https://www.linkedin.com/in/cleyton-souza-martins/ 🔗
